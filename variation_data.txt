@@ -1,0 +1,15 @@
+07_001: -u 20 -w 3 -r 50,200 -V -S -p -f arduino -T tms5220
+07_002: -u 20 -w 3 -r 50,329 -V -S -p -f arduino -T tms5220
+07_003: -u 20 -w 3 -r 50,457 -V -S -p -f arduino -T tms5220
+07_004: -u 20 -w 3 -r 50,586 -V -S -p -f arduino -T tms5220
+07_005: -u 20 -w 3 -r 50,714 -V -S -p -f arduino -T tms5220
+07_006: -u 20 -w 3 -r 50,843 -V -S -p -f arduino -T tms5220
+07_007: -u 20 -w 3 -r 50,971 -V -S -p -f arduino -T tms5220
+07_008: -u 20 -w 3 -r 50,1100 -V -S -p -f arduino -T tms5220
+07_009: -u 20 -w 3 -r 50,1229 -V -S -p -f arduino -T tms5220
+07_010: -u 20 -w 3 -r 50,1357 -V -S -p -f arduino -T tms5220
+07_011: -u 20 -w 3 -r 50,1486 -V -S -p -f arduino -T tms5220
+07_012: -u 20 -w 3 -r 50,1614 -V -S -p -f arduino -T tms5220
+07_013: -u 20 -w 3 -r 50,1743 -V -S -p -f arduino -T tms5220
+07_014: -u 20 -w 3 -r 50,1871 -V -S -p -f arduino -T tms5220
+07_015: -u 20 -w 3 -r 50,2000 -V -S -p -f arduino -T tms5220
